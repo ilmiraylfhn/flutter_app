@@ -1,6 +1,8 @@
 # flutter_app
 
-A new Flutter project.
+Responsi Mata Kuliah Pengembangan Aplikasi Mobile Lanjut C
+Nama : Ilmira Yulfihani
+NPM : 5210411329
 
 ## Getting Started
 
